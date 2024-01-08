@@ -1,0 +1,6 @@
+.scrollbar::-webkit-scrollbar {
+  display: none !important;
+}
+
+.hero-section {
+}
